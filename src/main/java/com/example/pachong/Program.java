@@ -19,7 +19,7 @@ public class Program {
     public static void main(String[] args) {
                 try {
                     //问题1 ： 我们要获取文件目录
-                    System.out.println("第二版本");
+                    System.out.println("hot - fix 第一版");
                     System.out.println("dasd asd ");
                     System.out.println("大大大大大");
                     System.out.println("yy");
