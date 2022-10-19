@@ -20,6 +20,7 @@ public class Program {
                 try {
                     //问题1 ： 我们要获取文件目录
                     System.out.println("master 第四版");
+                    System.out.println("hot - fix 第二版");
                     System.out.println("dasd asd ");
                     System.out.println("大大大大大");
                     System.out.println("yy");
